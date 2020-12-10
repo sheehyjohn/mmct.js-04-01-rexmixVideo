@@ -1,0 +1,1867 @@
+<REAPER_PROJECT 0.1 "6.11/x64" 1607594447
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 6.46153846153846
+  ZOOM 12.85911208940576 0 0
+  VZOOMEX 6 31
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\sheeh\OneDrive\work\techicreate\sample media\attempt to render RemixVideo via Reaper Video.webm"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    UE1GRgYAAAAAAAAAAAgAAAAAAACAAAAAAAUAANACAAAAAPBBAQAAAF8AAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 130 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 30.92307692307692
+  SELECTION2 0 30.92307692307692
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {2CA509EE-B233-4574-BA52-B3B2B733FD83}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {8D6F0692-36AD-4A7F-B718-0542CC7F7C96}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 130.0000000000 1
+  >
+  MARKER 1 7.38461538461538 intro 1 17694531 1 R {D5E3BDDF-5219-49D3-8A6B-A4E5878A9B2C}
+  MARKER 1 22.15384615384615 "" 1 17694531 1 R
+  MARKER 2 22.15384615384615 "verse 1 - 1" 1 20264447 1 R {4ABBAB4F-00C2-41A1-A6A0-8FE5CAEC9236}
+  MARKER 2 36.92307692307692 "" 1 20264447 1 R
+  MARKER 3 36.92307692307692 "chorus 1 - 1" 1 33509800 1 R {64040EF1-D50E-4EA4-98EA-810D7E029074}
+  MARKER 3 51.69230769230769 "" 1 33509800 1 R
+  MARKER 4 51.69230769230769 "chorus 1 - 1" 1 33509800 1 R {D7EE9916-499C-4859-8BBD-176857A35B6B}
+  MARKER 4 66.46153846153847 "" 1 33509800 1 R
+  <PROJBAY
+  >
+  <TRACK {3F8B1AA4-7D8B-45A2-8701-A099A263EF8C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 72 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3F8B1AA4-7D8B-45A2-8701-A099A263EF8C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 36.92307692300527
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3C9020FD-DE85-4835-B68F-0E5DC2345330}
+      IID 79
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AB84740-FAE6-4EC1-A3B7-E1DC4F13AD35}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 130
+        BPI 4
+        VOL 0.5 0.25
+        FREQ 800 1600 1
+        BEATLEN 4
+        SAMPLES "" ""
+        PATTERN 2863311530 2863311529
+      >
+    >
+    <ITEM
+      POSITION 36.92307692307692
+      SNAPOFFS 0
+      LENGTH 14.76923076915912
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {57E76869-5A08-4478-81F7-F77F9258AC5B}
+      IID 98
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.15384615384615
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11F98E13-4BB4-4AE2-AE89-00B709C8829C}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 130
+        BPI 4
+        VOL 0.5 0.25
+        FREQ 800 1600 1
+        BEATLEN 4
+        SAMPLES "" ""
+        PATTERN 2863311530 2863311529
+      >
+    >
+    <ITEM
+      POSITION 51.69230769230769
+      SNAPOFFS 0
+      LENGTH 14.76923076915912
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B6CF3C85-2EE2-4F57-B79C-D8EC00FF825A}
+      IID 80
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.15384615384615
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB70C265-A488-4922-981B-14AAC7DCA923}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 130
+        BPI 4
+        VOL 0.5 0.25
+        FREQ 800 1600 1
+        BEATLEN 4
+        SAMPLES "" ""
+        PATTERN 2863311530 2863311529
+      >
+    >
+  >
+  <TRACK {A26C07B0-D4B4-40D2-9AA9-1D2CB9696D4B}
+    NAME piano
+    PEAKCOL 33509800
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.21902679218974 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 70 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A26C07B0-D4B4-40D2-9AA9-1D2CB9696D4B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -1224 83 980 601
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: Mini Grand (AIR Music Technology)" MiniGrand_x64.dll 0 "" 1917283917<97E9E3945231B468945DA6A5C9A4E249> ""
+        TW5Hcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAJkBAAABAAAAAAAQAA==
+        iQEAAAAAAAAAAAAAAAAAAAgAAAAUPyY/AAAAP5qZGT/D9ag+AAAAAGZmJj8AAAAAAACAPygAAAAGFZn/AAAAFABNAGkAbgBpACAARwByAGEAbgBkAAAAAP/////erb7v
+        9AAAAAYVmf8AAAAUAE0AaQBuAGkAIABHAHIAYQBuAGQAAAAA/////wAAAMgAAAAHAAAABwAAAAAAAAAAAAAAAAAAAAA/gAAAAAAAAAAAAA4AAAAAAAAAAQAAAAAAAAAA
+        P4AAAAAAAAEAAABHAAAAAAAAAAUAAAAAAAAAAD+AAAAAAAAFAAAASAAAAAAAAAAEAAAAAAAAAAA/gAAAAAAABAAAAEkAAAAAAAAAAwAAAAAAAAAAP4AAAAAAAAMAAABK
+        AAAAAAAAAAAAAAAAAAAAAD+AAAAAAAAAAAAAWwAAAAAAAAACAAAAAAAAAAA/gAAAAAAAAt6tvu8wAAAAAAAAEABQAGwAYQB5AFAAYQBnAGUAAAABAAAAEABQAGwAYQB5
+        AFAAYQBnAGX/////CQAAAC9EZWZhdWx0AA==
+        AGRlZmF1bHQAEAAAAA==
+      >
+      PRESETNAME default
+      FLOATPOS 0 0 0 0
+      FXID {F61E66D1-3D45-4C79-9EAA-520D61713E46}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 7.38461538461538
+      SNAPOFFS 0
+      LENGTH 1.84615384615384
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {96874948-64AD-4EC3-97F2-989FE23F97B6}
+      IID 6
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29E310B4-F704-4645-A3C2-F272F1A0EE75}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {57B6233E-01B8-48BB-8DB1-C6B0697D3303}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 3f 63
+        E 0 90 42 63
+        E 0 90 2f 63
+        E 0 90 3b 63
+        E 1919 80 3f 00
+        E 0 80 3b 00
+        E 0 80 2f 00
+        E 0 80 42 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {312DDF78-F987-4155-B882-138AD7ACB400}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 13
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 11.07692307686935
+      SNAPOFFS 0
+      LENGTH 1.84615384615384
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51AB6B43-99D0-4D15-B6C1-649A4F7A6FC5}
+      IID 7
+      NAME "IV - E Maj - IV - E Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2F251B4-F339-4AAB-9DC9-AEAFCB35009D}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {379044E0-BEAB-4AD3-8C50-EECC258330EF}
+        <X 0 0 0 0 3 "IV - E Maj"
+          /wNJViAtIEUgTWFq
+        >
+        E 0 90 34 63
+        E 0 90 3b 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 34 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3b 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {20DF7C4D-8DB8-46BF-B29E-E74D41323FF3}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 16
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 14.76923076919495
+      SNAPOFFS 0
+      LENGTH 1.84615384615385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {221592F8-EF21-421B-968C-1A66AD45C02F}
+      IID 8
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B2CEBE5-6836-4ADB-B5C6-48148A2C07DE}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {EC7F0EFD-3DB1-4341-9CA8-55B4BDCED855}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 3f 63
+        E 0 90 42 63
+        E 0 90 2f 63
+        E 0 90 3b 63
+        E 1919 80 3f 00
+        E 0 80 3b 00
+        E 0 80 2f 00
+        E 0 80 42 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {6092CED6-250D-420C-9970-AF9C338D7512}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 17
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 18.46153846144891
+      SNAPOFFS 0
+      LENGTH 1.84615384615385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {25274C31-2159-4234-B474-8E2CD54C6732}
+      IID 9
+      NAME "IV - E Maj - IV - E Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E41DDD96-BDCF-4A91-9284-CB6D0B87ACAE}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {8E856566-902D-411B-94EC-A865CAAE6EC1}
+        <X 0 0 0 0 3 "IV - E Maj"
+          /wNJViAtIEUgTWFq
+        >
+        E 0 90 34 63
+        E 0 90 3b 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 34 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3b 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {B9154295-D88D-47B2-8A13-4B22812DAD47}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 18
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 22.15384615381033
+      SNAPOFFS 0
+      LENGTH 1.84615384615385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {32340EF4-D474-40D3-A5F7-3253E713AE4A}
+      IID 81
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {607A2A13-E393-40C4-9330-1C749CCD9D6D}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {EA0DE1A7-DD5D-4642-B9DE-405557D7B575}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 3f 63
+        E 0 90 42 63
+        E 0 90 2f 63
+        E 0 90 3b 63
+        E 1919 80 3f 00
+        E 0 80 3b 00
+        E 0 80 2f 00
+        E 0 80 42 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {7439E515-16F3-4452-88F4-D72B1468172E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 73
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 25.8461538460643
+      SNAPOFFS 0
+      LENGTH 1.84615384615385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A0DC5846-9ACB-4591-A7B5-4086FBAD436B}
+      IID 82
+      NAME "IV - E Maj - IV - E Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D66ABDC8-0B3D-4577-A195-4B61096396D8}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {89625B4E-01DB-4F09-BC29-1B07BA9326DF}
+        <X 0 0 0 0 3 "IV - E Maj"
+          /wNJViAtIEUgTWFq
+        >
+        E 0 90 34 63
+        E 0 90 3b 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 34 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3b 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF680501-8D33-4896-A85C-EF5E5687EEE4}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 74
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 29.5384615383899
+      SNAPOFFS 0
+      LENGTH 1.84615384615384
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {20D91592-8184-4EEA-AD0A-D1C73E7827E5}
+      IID 83
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C860079-E15A-4E20-B80D-ADC1E0AFC980}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {B2C28DBE-F1F6-4FA3-8726-5E480DC60929}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 3f 63
+        E 0 90 42 63
+        E 0 90 2f 63
+        E 0 90 3b 63
+        E 1919 80 3f 00
+        E 0 80 3b 00
+        E 0 80 2f 00
+        E 0 80 42 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {7BB23993-362D-4919-AB16-711BB193F5AA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 75
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 33.23076923064385
+      SNAPOFFS 0
+      LENGTH 1.84615384615385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {87E2857D-AA38-4D95-9D2B-EE83AEFED8B7}
+      IID 84
+      NAME "IV - E Maj - IV - E Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACF718C9-B4AA-4267-87C6-70651BA983AB}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {F09C173B-2845-4FA7-9C20-962444F42437}
+        <X 0 0 0 0 3 "IV - E Maj"
+          /wNJViAtIEUgTWFq
+        >
+        E 0 90 34 63
+        E 0 90 3b 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 34 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3b 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {99E6F63F-65DB-4BA5-9079-7FD5F42302F2}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 76
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 36.96156056952196
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {74AB0595-6B64-4C1C-883B-80F36420D88F}
+      IID 99
+      NAME "ii - C# min - ii - C# min.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C9B74BB-39F6-416D-983E-903A8E19F060}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {1664DF3E-71A4-4A38-B3B4-AC09B6859D68}
+        <X 0 0 0 0 3 "ii - C# min"
+          /wNpaSAtIEMjIG1pbg==
+        >
+        E 0 90 31 63
+        E 0 90 3d 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 31 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3d 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {5B7C0ADF-DAF5-4945-8E50-82E8EEEF89F7}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 98
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 38.80771441564895
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {80FD73F7-6263-4A58-866D-442A5CEB0C81}
+      IID 100
+      NAME "IV - E Maj - IV - E Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2F816C6-DD7C-4F85-A8F9-BD4A2E59CC05}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {88302EE8-FF25-4288-B0F1-DD0690F4C265}
+        <X 0 0 0 0 3 "IV - E Maj"
+          /wNJViAtIEUgTWFq
+        >
+        E 0 90 34 63
+        E 0 90 3b 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 34 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3b 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {A80F0832-E385-4927-8E16-087AAFBF13F7}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 99
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 40.65386826177593
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BE534A72-601C-4BCE-8497-4B1141DA27E7}
+      IID 101
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D18361CF-E3C1-4382-99FD-AD4D8EFD570A}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {2D4A22B6-71A0-49ED-99DA-78FB61F9B9BC}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 3f 63
+        E 0 90 42 63
+        E 0 90 2f 63
+        E 0 90 3b 63
+        E 1919 80 3f 00
+        E 0 80 3b 00
+        E 0 80 2f 00
+        E 0 80 42 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {61EF8885-92FB-423F-BD4B-F37A51C55E7B}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 100
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 42.50002210801932
+      SNAPOFFS 0
+      LENGTH 1.84615384615385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AE53C7F9-5F93-4E60-A86B-252C976967AA}
+      IID 102
+      NAME "VII - F# or A# - VII - F# or A#.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2BE7A59-EB77-4AB2-9BD9-509BDC25E20D}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {E8797831-1659-4548-AFEE-58F45D90257D}
+        <X 0 0 0 0 3 "VII - F# or A#"
+          /wNWSUkgLSBGIyBvciBBIw==
+        >
+        E 0 90 2e 63
+        E 0 90 3a 63
+        E 0 90 3d 63
+        E 0 90 36 63
+        E 1919 80 2e 00
+        E 0 80 36 00
+        E 0 80 3d 00
+        E 0 80 3a 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {52143ED9-DF59-4545-BB60-CE189F5D1A17}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 101
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 44.30769230769231
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D963ECAC-A436-4D87-BC85-C309037A1FF5}
+      IID 103
+      NAME "ii - C# min - ii - C# min.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {192627F4-B015-4085-9C89-0FFAD8FE8D24}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {B1F6CDF2-B8BE-4879-99BE-08F4E91EB72A}
+        <X 0 0 0 0 3 "ii - C# min"
+          /wNpaSAtIEMjIG1pbg==
+        >
+        E 0 90 31 63
+        E 0 90 3d 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 31 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3d 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {D09C3F67-9D31-43DA-AF3C-24599B624739}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 102
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 46.15384615381929
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F5C8C0F-8638-4DDD-8D50-30DAAB9604AF}
+      IID 104
+      NAME "IV - E Maj - IV - E Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1843635E-79FE-490E-B387-5B13E525DD94}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {C97B6EAC-BB2F-49C4-B702-63FB2727DB97}
+        <X 0 0 0 0 3 "IV - E Maj"
+          /wNJViAtIEUgTWFq
+        >
+        E 0 90 34 63
+        E 0 90 3b 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 34 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3b 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {244A9CEE-2D6C-411D-B4AA-8A2742C76151}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 103
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 47.99999999994627
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {99A81BCB-F48A-4B4D-BCE9-C144D944AA4F}
+      IID 105
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EF6E290-7ED2-4CEA-8F72-8DA1C507DF4C}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {22886CC0-CA10-49E5-9D89-A8B87782A805}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 3f 63
+        E 0 90 42 63
+        E 0 90 2f 63
+        E 0 90 3b 63
+        E 1919 80 3f 00
+        E 0 80 3b 00
+        E 0 80 2f 00
+        E 0 80 42 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {13F26F82-7F4C-4C74-A681-AC147F3538C1}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 104
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 49.84615384618967
+      SNAPOFFS 0
+      LENGTH 1.84615384615385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D12FCAFB-264E-4F5A-A1E8-262D4EC08F37}
+      IID 106
+      NAME "VII - F# or A# - VII - F# or A#.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E559D91B-F200-40E4-974E-A962FFA0DFCA}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {77F372EC-21EA-43BB-AD4A-11E35FD92839}
+        <X 0 0 0 0 3 "VII - F# or A#"
+          /wNWSUkgLSBGIyBvciBBIw==
+        >
+        E 0 90 2e 63
+        E 0 90 3a 63
+        E 0 90 3d 63
+        E 0 90 36 63
+        E 1919 80 2e 00
+        E 0 80 36 00
+        E 0 80 3d 00
+        E 0 80 3a 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {1059BC0C-CC50-4E57-8223-E94CC6C56550}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 105
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 51.73079133875274
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A524A3B5-AB11-415D-A805-DBF73ABED3B9}
+      IID 86
+      NAME "ii - C# min - ii - C# min.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {015E1621-7E74-4CA1-9ED1-0CA514BECA07}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {60AF5DED-EC93-4EFE-81B8-F2C815EFD77E}
+        <X 0 0 0 0 3 "ii - C# min"
+          /wNpaSAtIEMjIG1pbg==
+        >
+        E 0 90 31 63
+        E 0 90 3d 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 31 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3d 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {375C27B8-83E1-42D3-9C01-1E4296083690}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 81
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 53.57694518487972
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1EC20E46-B876-4648-9993-7284451E63F5}
+      IID 87
+      NAME "IV - E Maj - IV - E Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E1124B8-F995-4213-B130-E42317FB48D6}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {8E1112BC-A507-417B-90DB-EFC1E3E643AF}
+        <X 0 0 0 0 3 "IV - E Maj"
+          /wNJViAtIEUgTWFq
+        >
+        E 0 90 34 63
+        E 0 90 3b 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 34 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3b 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FFCA9189-66ED-4263-9670-18BBE15CAEAA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 84
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 55.4230990310067
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2A50D3B0-DAF3-4063-8D1E-3A098B7B1B7C}
+      IID 88
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B003AD1D-CDC3-4EB7-A061-7D50F488B767}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {1DFA8399-28A5-413C-B00D-E6D51DA42CE4}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 3f 63
+        E 0 90 42 63
+        E 0 90 2f 63
+        E 0 90 3b 63
+        E 1919 80 3f 00
+        E 0 80 3b 00
+        E 0 80 2f 00
+        E 0 80 42 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {EB554EB5-CFB2-4B75-9DF1-838CFF19FD8F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 87
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 57.2692528772501
+      SNAPOFFS 0
+      LENGTH 1.84615384615385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D6628D5B-76BC-47E3-8B61-563CCB5C44B3}
+      IID 89
+      NAME "VII - F# or A# - VII - F# or A#.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56F9D676-E25A-4D6F-9AA0-2619A78570F1}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {923D3F8C-DAA8-448E-96F0-DC331C1FE4C5}
+        <X 0 0 0 0 3 "VII - F# or A#"
+          /wNWSUkgLSBGIyBvciBBIw==
+        >
+        E 0 90 2e 63
+        E 0 90 3a 63
+        E 0 90 3d 63
+        E 0 90 36 63
+        E 1919 80 2e 00
+        E 0 80 36 00
+        E 0 80 3d 00
+        E 0 80 3a 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {8130518D-6E7B-477D-A726-7F872B26C24E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 89
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 59.07692307692308
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DB552D53-2820-484A-92CD-9D2429D75F1A}
+      IID 94
+      NAME "ii - C# min - ii - C# min.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD0AE6DF-0A35-4C44-85C9-6BA7CC37C5E2}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {10ED7F73-98C4-4E5D-8353-B107B9529ABC}
+        <X 0 0 0 0 3 "ii - C# min"
+          /wNpaSAtIEMjIG1pbg==
+        >
+        E 0 90 31 63
+        E 0 90 3d 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 31 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3d 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {D104752A-C815-469E-BB29-84B6159A2352}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 94
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 60.92307692305006
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2BF688F5-8472-46D3-8DCE-F2C67C2E294B}
+      IID 95
+      NAME "IV - E Maj - IV - E Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B23E169-194B-44D1-B695-9C735224FE05}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {23D643B3-AA90-4041-82CE-970623308573}
+        <X 0 0 0 0 3 "IV - E Maj"
+          /wNJViAtIEUgTWFq
+        >
+        E 0 90 34 63
+        E 0 90 3b 63
+        E 0 90 40 63
+        E 0 90 38 63
+        E 1919 80 34 00
+        E 0 80 38 00
+        E 0 80 40 00
+        E 0 80 3b 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {4FF61BF5-B3D4-4565-8293-067BF292025A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 95
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 62.76923076917704
+      SNAPOFFS 0
+      LENGTH 1.84615384615387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DF67E583-F2AA-45A0-8CDB-3F7F79F1A982}
+      IID 96
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74D4E9C1-26B9-4F17-BAF2-9C8A81F14609}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {9BA21384-5C1A-4312-8532-1DD056855C27}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 3f 63
+        E 0 90 42 63
+        E 0 90 2f 63
+        E 0 90 3b 63
+        E 1919 80 3f 00
+        E 0 80 3b 00
+        E 0 80 2f 00
+        E 0 80 42 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {DEEF2310-2648-4902-9367-341FA771EC2F}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 96
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 64.61538461542044
+      SNAPOFFS 0
+      LENGTH 1.84615384615385
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {94397482-CFFE-45CA-841F-D770AFEF4824}
+      IID 97
+      NAME "VII - F# or A# - VII - F# or A#.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD97CC88-D5F3-48A1-9678-F93EE9C93947}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {734B1073-1AD4-44ED-BD30-73DDD8EC5741}
+        <X 0 0 0 0 3 "VII - F# or A#"
+          /wNWSUkgLSBGIyBvciBBIw==
+        >
+        E 0 90 2e 63
+        E 0 90 3a 63
+        E 0 90 3d 63
+        E 0 90 36 63
+        E 1919 80 2e 00
+        E 0 80 36 00
+        E 0 80 3d 00
+        E 0 80 3a 00
+        E 1 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {9A08824F-EEDA-465F-A435-D5F335191236}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 97
+        VELLANE -1 100 0
+      >
+    >
+  >
+  <TRACK {806D71D1-6DC0-4A14-81A4-04D9601D9AE5}
+    NAME remixVideo
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.54096138720483 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 54 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {806D71D1-6DC0-4A14-81A4-04D9601D9AE5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -1187 48 1144 881
+      SHOW 1
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: Remixvideo (Mixvibes)" remixvideo-plugin.dll 0 "" 1382839890<565354526C765272656D697876696465> ""
+        UnZsUu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAuAAAAAAAAAAAABAA
+        776t3g3wrd4zMzM/AACAPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPwAAAD8AAAA/AAAAPwAAgD8AAAA/AAAAPwAAAD8AAAA/EFhZPwAAAD8CKwc/cBIDP23n+z4AAIA/
+        AAAAPwAAAD8AAAA/AAAAPwAAgD8AAAA/AAAAPwAAAD8AAAA/MzMzPwAAAD8AAAA/AAAAPwAAAD8zMzM/AAAAPwAAAD8AAAA/AAAAPwAAAAD0/dQ+QmAlPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {283563F4-8336-4076-BC82-0C4ECB1E3921}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 7.38461538461538
+      SNAPOFFS 0
+      LENGTH 3.69230769230769
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F2647D60-F7F9-4AC8-BDAA-5BBDECAC9B53}
+      IID 10
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B83327B7-FABD-4A67-A462-EC8A720435B1}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {D6B5EDB5-C882-4BAC-A52E-A601CAF97864}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 16 63
+        E 3840 80 16 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {AD2DC397-05C2-41F5-A1AD-2ADCAE1EE8D2}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE -1 100 0
+        CFGEDITVIEW 51.586395 0.186596 68 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 794 19 1856 992 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 11.07692307686935
+      SNAPOFFS 0
+      LENGTH 3.69230769236142
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6B81B5DD-3256-484B-A2AC-6B650C4F66F8}
+      IID 11
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA9D04BA-A988-4A13-9946-75A8344C66EE}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {562AFCB5-BA4C-4B4C-8661-9945E00277C7}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 1 90 0c 63
+        e 0 90 16 63
+        E 3839 80 0c 00
+        e 0 80 16 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {304E3DCE-61BA-4152-AA9D-B6AC7C280050}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 20
+        VELLANE -1 100 0
+        CFGEDITVIEW -3824.636735 0.186596 68 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 794 19 1856 992 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 14.76923076923077
+      SNAPOFFS 0
+      LENGTH 3.69230769230769
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E1E80F07-6482-4C77-8A92-B39AE658F6A8}
+      IID 12
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE7F1B3E-0757-442F-89BA-9B631CB2BAC5}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {7C547055-0653-4549-8C6D-860F0CE466F8}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 0 90 16 63
+        E 3840 80 16 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {7280CF7C-BC36-4726-9AD2-E4467946972C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 21
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.186596 68 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 794 19 1856 992 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 18.46153846144891
+      SNAPOFFS 0
+      LENGTH 3.69230769236142
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {147E6BCE-89C7-45AC-B988-37779788F008}
+      IID 13
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A03A966F-F6E6-4216-9C1D-85AB9DA2CA17}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {A0C5DD25-FD63-4C7E-AF1D-74E3AD69940A}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 1 90 0c 63
+        e 0 90 16 63
+        E 3839 80 0c 00
+        e 0 80 16 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {6E2EA201-A143-4282-A9EA-6FF3C14A941A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 22
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.186596 68 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 794 19 1856 992 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 22.15384615381033
+      SNAPOFFS 0
+      LENGTH 14.76923076926659
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2BC382C6-248A-44B6-913D-C5DED6C841CB}
+      IID 85
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {383334C6-5CCB-40EA-B11B-8666711CE0D1}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {BE54487F-9A77-428D-9BF6-2F17C918A204}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 1 90 0c 63
+        E 0 90 02 63
+        E 0 90 16 63
+        E 15359 80 02 00
+        E 0 80 0c 00
+        E 0 80 16 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {7BF23D25-71F9-4900-B73B-7C859C9EB788}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 77
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.052604 73 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 -1341 111 -42 1084 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 36.9230769230411
+      SNAPOFFS 0
+      LENGTH 14.76923076926659
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EAC30554-9A39-46BC-98F2-14D9B16A934D}
+      IID 107
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {014FA7B7-45F3-4CF1-8E21-9D97734141F8}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {B990E4CC-5DF3-4DC2-8CEC-D14C54CFE4AA}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 1 90 0d 63
+        e 0 90 03 63
+        E 0 90 17 63
+        E 15359 80 0d 00
+        e 0 80 03 00
+        E 0 80 17 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {A5CA259F-97F6-4C12-8ADA-71C402EE783B}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 106
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.052604 77 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 90 26 1226 942 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 51.69230769227187
+      SNAPOFFS 0
+      LENGTH 14.76923076926659
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4EDA233F-BC0D-4AB1-8C5A-EA6469C20DA8}
+      IID 77
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C317302-DA73-414C-BE79-26FBBA7CED90}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {CD4E832C-F1F0-4FF6-9055-0A93AD4E5F4D}
+        <X 0 0 0 0 3 "V - B Maj"
+          /wNWIC0gQiBNYWo=
+        >
+        E 1 90 0d 63
+        e 0 90 03 63
+        E 0 90 17 63
+        E 15359 80 0d 00
+        e 0 80 03 00
+        E 0 80 17 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {07EB758B-021A-465D-B369-AD0A2BB2A3ED}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 71
+        VELLANE -1 100 0
+        CFGEDITVIEW -767.082733 0.052604 77 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 90 26 1226 942 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 66.46153846153847
+      SNAPOFFS 0
+      LENGTH 0.05769230765648
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0B90FB9C-2356-4658-9A97-77270326B117}
+      IID 78
+      NAME "V - B Maj - B Maj.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EA2BCCF-F88B-4C86-AA29-4AA9DC08341C}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {81C95CC9-7FDF-4B01-98C0-A5509E4C9A0D}
+        E 0 90 02 63
+        E 0 90 0c 63
+        E 0 90 16 63
+        E 60 80 0c 00
+        E 0 80 02 00
+        E 0 80 16 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {ADE7452F-030A-4D3A-9779-286AF9FD527A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 72
+        VELLANE -1 100 0
+        CFGEDITVIEW 0 0.052604 73 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 -1341 111 -42 1084 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {30FCDBFA-F8A1-4B7A-B9E3-267DF4F9ADE1}
+    NAME "2020 November 19 - visuals-01-kyoto -  Video"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {30FCDBFA-F8A1-4B7A-B9E3-267DF4F9ADE1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 60.4615384615922
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {789B10C8-2854-4F09-9337-AFC975139A87}
+      IID 3
+      NAME "2020 November 19 - visuals-01-kyoto -  Video.mp4"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.38461538456165
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D379AB33-8DF5-4118-B716-AB7991D729DC}
+      <SOURCE VIDEO
+        FILE "C:\Users\sheeh\Videos\Mixvibes\Samples\visualisations-01-kyoto\visuals-01-kyoto-remixCaptures\2020 November 19 - visuals-01-kyoto -  Video.mp4"
+      >
+    >
+  >
+  <TRACK {246DFE57-FF2D-48CF-A77A-76E7860F7DFF}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 48 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {246DFE57-FF2D-48CF-A77A-76E7860F7DFF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -1256 51 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 31.38460317460317
+      SNAPOFFS 0
+      LENGTH 35.07693528686364
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FDBC9EB5-725C-40C8-8018-11EAD2CFA9CA}
+      IID 111
+      NAME 04-201117_1240.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80694B9B-CAC0-43CE-8B1D-D7624D08A2B8}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "04-201117_1240.wav"
+      >
+    >
+  >
+  <TRACK {6B3A39D9-EB44-4C30-9A11-2CF7A3AA042E}
+    NAME bass
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.15010132157331 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 69 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6B3A39D9-EB44-4C30-9A11-2CF7A3AA042E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 8.30769230769231
+      SNAPOFFS 0
+      LENGTH 13.84615384615384
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 10.983897 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {080804EE-9FE3-4859-AE03-8070221BE9D2}
+      IID 110
+      NAME 04-201117_1239.wav
+      VOLPAN 0.448276 0 1 -1
+      SOFFS 3.69231815803245
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {153C5EC8-88AA-4AC2-A51D-8A93A7252B3A}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "04-201117_1239.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.15384615384615
+      SNAPOFFS 0
+      LENGTH 14.7692307691591
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AFABFE2B-B679-45FF-8B63-F98604D13CF6}
+      IID 116
+      NAME 04-201117_1239.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 17.53847200418629
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8922180-2161-4A4B-A969-5078DF56D28B}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "04-201117_1239.wav"
+      >
+    >
+  >
+  <TRACK {E121DCAD-0737-4608-9FEF-47CA0010DD5F}
+    NAME sample-world-720p
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E121DCAD-0737-4608-9FEF-47CA0010DD5F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 30.526667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {18E7BBC4-D7C2-4AA3-8C99-AE0AD04205F0}
+      IID 1
+      NAME sample-world-720p.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCEDEB5F-0177-44CB-9674-0D79513C48B1}
+      <SOURCE VIDEO
+        FILE "C:\Users\sheeh\OneDrive\work\code4create\sample media\music\sample-world-720p.mp4"
+      >
+    >
+  >
+>
